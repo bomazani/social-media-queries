@@ -1,5 +1,24 @@
 {
   "dependencies": {
-    "express": "^4.16.3"
-  }
+    "express": "^4.16.3",
+    "pg": "^7.4.3"
+  },
+  "name": "social-media-queries",
+  "description": "For this assessment, you'll be writing a backend service that executes SQL queries to manipulate rows in a database for a social media application.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bomazani/social-media-queries.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bomazani/social-media-queries/issues"
+  },
+  "homepage": "https://github.com/bomazani/social-media-queries#readme"
 }

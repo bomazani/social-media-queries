@@ -1,7 +1,7 @@
 const { Client } = require('pg');
 const express = require('express');
 
-pulled this code from npm setTimeout.
+// pulled this code from npm site for yarn install.
 const install = require('yarn-install');
 
 const app = express();
